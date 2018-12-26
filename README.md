@@ -23,15 +23,29 @@
 - [practicalAI](https://github.com/GokuMohandas/practicalAI)：A practical approach to learning machine learning
 
 ## Tensorflow
+- [Tensorflow](https://github.com/tensorflow/tensorflow)：An Open Source Machine Learning Framework for Everyone
+- [models](https://github.com/tensorflow/models)：Models and examples built with TensorFlow
+- [TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples)：TensorFlow Tutorial and Examples for Beginners with Latest APIs
+- [Tensorflow-Tutorial](https://github.com/MorvanZhou/Tensorflow-Tutorial)：莫烦 - Tensorflow tutorial from basic to hard
+- [Tensorflow-Computer-Vision-Tutorial](https://github.com/MorvanZhou/Tensorflow-Computer-Vision-Tutorial)：莫烦 - Tutorials of deep learning for computer vision
+- [easy-tensorflow](https://github.com/easy-tensorflow/easy-tensorflow)：Simple and comprehensive tutorials in TensorFlow
+- [stanford-tensorflow-tutorials](https://github.com/chiphuyen/stanford-tensorflow-tutorials)：This repository contains code examples for the Stanford's course: TensorFlow for Deep Learning Research
+- [tensorflow-docs](https://github.com/xitu/tensorflow-docs)：TensorFlow 最新官方文档中文版 V1.10
+- [DeepInterests](https://github.com/Honlan/DeepInterests)：深度有趣 - 人工智能实战项目合集
+
+## Keras
+- [Keras](https://github.com/keras-team/keras)：Deep Learning for humans
+- [deep-learning-with-keras-notebooks](https://github.com/erhwenkuo/deep-learning-with-keras-notebooks)：Jupyter notebooks for using & learning Keras
 
 ## Kaggle
-
+- [kaggle](https://github.com/apachecn/kaggle)：Kaggle 项目实战（教程） = 文档 + 代码 + 视频
+- [Data-Competition-TopSolution](https://github.com/Smilexuhc/Data-Competition-TopSolution)：Data competition Top Solution 数据竞赛top解决方案开源整理
 
 ## Python
 - [notes-python](https://github.com/lijin-THU/notes-python)：Python 笔记
 - [Python-100-Days](https://github.com/jackfrued/Python-100-Days)：Python - 100 天从新手到大师
 - [wtfpython-cn](https://github.com/leisurelicht/wtfpython-cn)：What the fuck Python - 中文翻译
-- [Computer Science Learning Notes](https://github.com/CyC2018/CS-Notes)
+- [CS-Notes](https://github.com/CyC2018/CS-Notes)：Computer Science Learning Notes
 - [interview_python](https://github.com/taizilongxu/interview_python)：关于 Python 的面试题
 
 ## Algorithm
