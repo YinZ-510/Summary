@@ -1,6 +1,7 @@
 # 资源汇总
 
 ## Deep Learning
+- [AiLearning](https://github.com/apachecn/AiLearning)：AiLearning:MachineLearning、DeepLearning、NLP
 - [awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning)：A curated list of awesome Deep Learning tutorials, projects and communities
 - [deep_learning_object_detection](https://github.com/hoya012/deep_learning_object_detection)：A paper list of object detection using deep learning
 - [awesome-object-detection](https://github.com/amusi/awesome-object-detection)
@@ -12,12 +13,13 @@
 
 ## Machine Learning
 - [MachineLearning](https://github.com/allmachinelearning/MachineLearning)：Machine learning resources
+- [莫烦机器学习相关教程](https://github.com/MorvanZhou/tutorials)
 - [lihang-code](https://github.com/fengdu78/lihang-code)：《统计学习方法》python 实现
 - [MachineLearning_Python](https://github.com/lawlite19/MachineLearning_Python)：机器学习算法 python 实现
 - [Hands-on-Machine-Learning](https://github.com/DeqianBai/Hands-on-Machine-Learning)：Hands-on Machine Learning with Scikit-Learn and TensorFlow 这本书的学习笔记
-- [Coursera-ML-AndrewNg-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes)：吴恩达老师的机器学习课程个人笔记
+- [Coursera-ML-AndrewNg-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes)：吴恩达老师的机器学习课程笔记
 - [100-Days-Of-ML-Code](https://github.com/MLEveryday/100-Days-Of-ML-Code)：100-Days-Of-ML-Code中文版
-- [You-first-machine-learning-Project--End-to-End-in-Python](https://github.com/DeqianBai/Your-first-machine-learning-Project---End-to-End-in-Python)：一个完整的、端到端的机器学习项目，非常适合有一定基础后拿来练习，以提高对完整机器学习项目的认识
+- [You-first-machine-learning-Project--End-to-End-in-Python](https://github.com/DeqianBai/Your-first-machine-learning-Project---End-to-End-in-Python)：一个完整的、端到端的机器学习项目，适合有一定基础后拿来练习，以提高对完整机器学习项目的认识
 - [practicalAI](https://github.com/GokuMohandas/practicalAI)：A practical approach to learning machine learning
 
 ## Tensorflow
@@ -26,19 +28,19 @@
 
 
 ## Python
-- [notes-python](https://github.com/lijin-THU/notes-python)
-- [Python - 100 天从新手到大师](https://github.com/jackfrued/Python-100-Days)
-- [What the fuck Python-中文翻译](https://github.com/leisurelicht/wtfpython-cn)
+- [notes-python](https://github.com/lijin-THU/notes-python)：Python 笔记
+- [Python-100-Days](https://github.com/jackfrued/Python-100-Days)：Python - 100 天从新手到大师
+- [wtfpython-cn](https://github.com/leisurelicht/wtfpython-cn)：What the fuck Python - 中文翻译
 - [Computer Science Learning Notes](https://github.com/CyC2018/CS-Notes)
-- [关于 Python 的面试题](https://github.com/taizilongxu/interview_python)
-
+- [interview_python](https://github.com/taizilongxu/interview_python)：关于 Python 的面试题
 
 ## Algorithm
-- [awesome-algorithm](https://github.com/apachecn/awesome-algorithm)
+- [awesome-algorithm](https://github.com/apachecn/awesome-algorithm)：LeetCode、HackRank、剑指offer、classic algorithm implementation
 - [All Algorithms implemented in Python](https://github.com/TheAlgorithms/Python)
-- [AlgorithmsByPython](https://github.com/Jack-Lee-Hiter/AlgorithmsByPython)
+- [AlgorithmsByPython](https://github.com/Jack-Lee-Hiter/AlgorithmsByPython)：算法/数据结构/Python/剑指offer
 
 
 ## 面经
-- [Algorithm_Interview_Notes-Chinese](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese)
-- [2019届秋招面经集合](https://github.com/zslomo/2019-Autumn-recruitment-experience)
+- [Algorithm_Interview_Notes-Chinese](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese)：2018/2019/校招/春招/秋招/算法/机器学习(Machine Learning)/深度学习(Deep Learning)/自然语言处理(NLP)/C/C++/Python/面试笔记
+- [2019-Autumn-recruitment-experience](https://github.com/zslomo/2019-Autumn-recruitment-experience)：2019届秋招面经集合
+
