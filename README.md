@@ -26,12 +26,12 @@
 - [Tensorflow](https://github.com/tensorflow/tensorflow)：An Open Source Machine Learning Framework for Everyone
 - [models](https://github.com/tensorflow/models)：Models and examples built with TensorFlow
 - [TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples)：TensorFlow Tutorial and Examples for Beginners with Latest APIs
+- [easy-tensorflow](https://github.com/easy-tensorflow/easy-tensorflow)：Simple and comprehensive tutorials in TensorFlow
 - [Tensorflow-Tutorial](https://github.com/MorvanZhou/Tensorflow-Tutorial)：莫烦 - Tensorflow tutorial from basic to hard
 - [Tensorflow-Computer-Vision-Tutorial](https://github.com/MorvanZhou/Tensorflow-Computer-Vision-Tutorial)：莫烦 - Tutorials of deep learning for computer vision
-- [easy-tensorflow](https://github.com/easy-tensorflow/easy-tensorflow)：Simple and comprehensive tutorials in TensorFlow
 - [stanford-tensorflow-tutorials](https://github.com/chiphuyen/stanford-tensorflow-tutorials)：This repository contains code examples for the Stanford's course: TensorFlow for Deep Learning Research
-- [tensorflow-docs](https://github.com/xitu/tensorflow-docs)：TensorFlow 最新官方文档中文版 V1.10
 - [DeepInterests](https://github.com/Honlan/DeepInterests)：深度有趣 - 人工智能实战项目合集
+- [tensorflow-docs](https://github.com/xitu/tensorflow-docs)：TensorFlow 最新官方文档中文版 V1.10
 
 ## Keras
 - [Keras](https://github.com/keras-team/keras)：Deep Learning for humans
