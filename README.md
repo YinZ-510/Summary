@@ -26,6 +26,7 @@
 - [Tensorflow](https://github.com/tensorflow/tensorflow)：An Open Source Machine Learning Framework for Everyone
 - [models](https://github.com/tensorflow/models)：Models and examples built with TensorFlow
 - [TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples)：TensorFlow Tutorial and Examples for Beginners with Latest APIs
+- [人工智能实践：Tensorflow笔记](https://www.icourse163.org/course/PKU-1002536002)：北京大学 曹健
 - [easy-tensorflow](https://github.com/easy-tensorflow/easy-tensorflow)：Simple and comprehensive tutorials in TensorFlow
 - [Tensorflow-Tutorial](https://github.com/MorvanZhou/Tensorflow-Tutorial)：莫烦 - Tensorflow tutorial from basic to hard
 - [Tensorflow-Computer-Vision-Tutorial](https://github.com/MorvanZhou/Tensorflow-Computer-Vision-Tutorial)：莫烦 - Tutorials of deep learning for computer vision
