@@ -28,11 +28,18 @@
 - [TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples)：TensorFlow Tutorial and Examples for Beginners with Latest APIs
 - [人工智能实践：Tensorflow笔记](https://www.icourse163.org/course/PKU-1002536002)：北京大学 曹健
 - [easy-tensorflow](https://github.com/easy-tensorflow/easy-tensorflow)：Simple and comprehensive tutorials in TensorFlow
+- [Tensorflow-Cookbook](https://github.com/taki0112/Tensorflow-Cookbook)：Simple Tensorflow Cookbook for easy-to-use
 - [Tensorflow-Tutorial](https://github.com/MorvanZhou/Tensorflow-Tutorial)：莫烦 - Tensorflow tutorial from basic to hard
 - [Tensorflow-Computer-Vision-Tutorial](https://github.com/MorvanZhou/Tensorflow-Computer-Vision-Tutorial)：莫烦 - Tutorials of deep learning for computer vision
 - [stanford-tensorflow-tutorials](https://github.com/chiphuyen/stanford-tensorflow-tutorials)：This repository contains code examples for the Stanford's course: TensorFlow for Deep Learning Research
 - [DeepInterests](https://github.com/Honlan/DeepInterests)：深度有趣 - 人工智能实战项目合集
 - [tensorflow-docs](https://github.com/xitu/tensorflow-docs)：TensorFlow 最新官方文档中文版 V1.10
+
+## Pytorch
+- [Pytorch](https://github.com/pytorch/pytorch)：Tensors and Dynamic neural networks in Python with strong GPU acceleration
+- [pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial)：PyTorch Tutorial for Deep Learning Researchers
+- [PyTorch 中文文档](https://pytorch.apachecn.org/#/)
+- [Awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list)：A comprehensive list of pytorch related content on github,such as different models,implementations,helper libraries,tutorials etc.
 
 ## Keras
 - [Keras](https://github.com/keras-team/keras)：Deep Learning for humans
@@ -46,7 +53,6 @@
 - [notes-python](https://github.com/lijin-THU/notes-python)：Python 笔记
 - [Python-100-Days](https://github.com/jackfrued/Python-100-Days)：Python - 100 天从新手到大师
 - [wtfpython-cn](https://github.com/leisurelicht/wtfpython-cn)：What the fuck Python - 中文翻译
-- [CS-Notes](https://github.com/CyC2018/CS-Notes)：Computer Science Learning Notes
 - [interview_python](https://github.com/taizilongxu/interview_python)：关于 Python 的面试题
 
 ## Algorithm
@@ -54,8 +60,8 @@
 - [All Algorithms implemented in Python](https://github.com/TheAlgorithms/Python)
 - [AlgorithmsByPython](https://github.com/Jack-Lee-Hiter/AlgorithmsByPython)：算法/数据结构/Python/剑指offer
 
-
 ## 面经
 - [Algorithm_Interview_Notes-Chinese](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese)：2018/2019/校招/春招/秋招/算法/机器学习(Machine Learning)/深度学习(Deep Learning)/自然语言处理(NLP)/C/C++/Python/面试笔记
+- [CS-Notes](https://github.com/CyC2018/CS-Notes)：技术面试必备基础知识
 - [2019-Autumn-recruitment-experience](https://github.com/zslomo/2019-Autumn-recruitment-experience)：2019届秋招面经集合
 
