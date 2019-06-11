@@ -69,12 +69,13 @@
 - [Python Solutions for Leetcode](https://github.com/qiyuangong/leetcode)
 - [All Algorithms implemented in Python](https://github.com/TheAlgorithms/Python)
 - [AlgorithmsByPython](https://github.com/Jack-Lee-Hiter/AlgorithmsByPython)：算法/数据结构/Python/剑指offer
+- [《剑指Offer》第二版源代码](https://github.com/zhedahht/CodingInterviewChinese2)
 
 
 ### 面经
 - [Algorithm_Interview_Notes-Chinese](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese)：2018/2019/校招/春招/秋招/算法/机器学习(Machine Learning)/深度学习(Deep Learning)/自然语言处理(NLP)/C/C++/Python/面试笔记
 - [CS-Notes](https://github.com/CyC2018/CS-Notes)：技术面试必备基础知识
 - [2019-Autumn-recruitment-experience](https://github.com/zslomo/2019-Autumn-recruitment-experience)：2019届秋招面经集合
-- [深度学习面试问题 对应的 Deep Learning 中文版页码](https://github.com/elviswf/DeepLearningBookQA_cn)
+- [深度学习面试问题对应的 Deep Learning 中文版页码](https://github.com/elviswf/DeepLearningBookQA_cn)
 - [C/C++面试基础知识总结 ](https://github.com/huihut/interview#cc)
 
