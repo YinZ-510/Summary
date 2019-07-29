@@ -60,7 +60,7 @@
 - [notes-python](https://github.com/lijin-THU/notes-python)：Python 笔记
 - [Python-100-Days](https://github.com/jackfrued/Python-100-Days)：Python - 100 天从新手到大师
 - [wtfpython-cn](https://github.com/leisurelicht/wtfpython-cn)：What the fuck Python - 中文翻译
-- [interview_python](https://github.com/taizilongxu/interview_python)：关于 Python 的面试题
+- [python_interview_question](https://github.com/kenwoodjw/python_interview_question)：关于 Python 的面试题
 
 
 ### Algorithm
